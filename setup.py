@@ -30,16 +30,16 @@ class Tox(TestCommand):
 
 
 setup(
-    name='fabtools',
-    version='0.20.0-dev',
+    name='fabtools3',
+    version='0.0.1-dev',
     description='Tools for writing awesome Fabric files',
     long_description=read('README.rst') + '\n' + read('docs/CHANGELOG.rst'),
-    author='Ronan Amicel',
-    author_email='ronan.amicel@gmail.com',
-    url='http://fabtools.readthedocs.org/',
+    author='Santiago del Castillo',
+    author_email='delcas@gmail.com',
+    url='http://fabtools3.readthedocs.org/',
     license='BSD',
     install_requires=[
-        "fabric>=1.7.0",
+        "Fabric3>=1.1.1",
         "future>=0.15.2",
     ],
     setup_requires=[],
