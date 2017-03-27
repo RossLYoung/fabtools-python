@@ -31,7 +31,7 @@ class Tox(TestCommand):
 
 setup(
     name='fabtools-python',
-    version='0.19.6',
+    version='0.19.7',
     description='Fabtools version compatible with both Python2 and Python3',
     long_description=read('README.rst') + '\n' + read('docs/CHANGELOG.rst'),
     author='Santiago del Castillo',
