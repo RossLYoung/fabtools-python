@@ -33,7 +33,7 @@ setup(
     name='fabtools-python',
     version='0.19.7',
     description='Fabtools version compatible with both Python2 and Python3',
-    long_description=read('README.rst') + '\n' + read('docs/CHANGELOG.rst'),
+    #long_description=read('README.rst') + '\n' + read('docs/CHANGELOG.rst'),
     author='Santiago del Castillo',
     author_email='delcas@gmail.com',
     url='http://fabtools.readthedocs.org/',
